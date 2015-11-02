@@ -1,1 +1,1 @@
-Brush up on your CSS by building out the results list from the Cocktail Guide discussed in the chapter.
+Brush up on your CSS by building out the results list from the Cocktail Guide discussed in the chapter.  The markup has been provided for you.  Designs can be found in the /resources/cocktail directory.

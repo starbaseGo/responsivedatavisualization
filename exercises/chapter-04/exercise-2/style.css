@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;  
+}
+
+.result-list {
+  list-style-type: none;
+  margin: auto;
+}
+.result {
+  display: block;
+  float: left;
+  text-transform: uppercase;
+  width: 100%;
+}
+.result-link {
+  background: blue;
+  color: #fff;
+  display: block;
+  margin: .75em;
+  padding: .75em;
+  text-decoration: none;
+}
+.result-header {
+  font-size: 2em;
+}
+.result-info-list {
+  list-style-type: none;
+}
+.result-info {
+  font-size: .5em;
+}
