@@ -1,0 +1,1 @@
+The code in this exercise is a partially completed bar chart that renders correctly using D3. It has some additional functionality to add and remove elements from the data set, but it is missing handlers for enter and exit. Your task is to implement that functionality.
