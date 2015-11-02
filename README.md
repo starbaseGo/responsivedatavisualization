@@ -19,7 +19,7 @@ Exercises with answers have them within the same directory as the question.
 
 ## Resources
 
-Resources referenced within the book can be found in the /resources directory.  These are The Cocktail Guide, and The Train Tracker.
+Resources referenced within the book can be found in the /resources directory.  These are The Cocktail Guide, and The Train Tracker.  Short descriptions of each can be referenced as "resource.md" within each resource's directory.
 
 ### The Cocktail Guide
 
