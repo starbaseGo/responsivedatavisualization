@@ -7,27 +7,27 @@ This repository holds the exercises and resources referened and presented in [Bu
 
 ## Exercises
 
-adsf
+Exercises are separated per chapter, with each chapter having its own directory, and exercise its own sub-directory.
 
 ### Exercise Questions
 
-df
+Exercise questions are repeated in the repo for ease-of-reference as "exercise.md" within each exercise's directory.  The supporting code for each exercise is also in the directory.  File names and types may vary.  Any questions that reference **jQuery** or **D3** do so by referencing the minified version of these libraries in the /assets directory.
 
 ### Exercise Answers
 
-adsfa
+Exercises with answers have them within the same directory as the question.
 
 ## Resources
 
-asdf
+Resources referenced within the book can be found in the /resources directory.  These are The Cocktail Guide, and The Train Tracker.
 
 ### The Cocktail Guide
 
-adsf
+The Cocktail Guide is a cocktail recipe webapp with the goal of building a fast, mobile-first experience for searching for and mixing drinks. It is an exploration into responsive design principles.
 
 ### The Train Tracker
 
-adf
+The CTA Train Tracker is a BackboneJS webapp that queries the Chicago Transit Authority's arrival prediction API. The project is an exploration into progressive enhancement, perceived performance, and adherence to Material Design standards.
 
 ## Misc
 
