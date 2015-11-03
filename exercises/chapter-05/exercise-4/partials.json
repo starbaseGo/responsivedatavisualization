@@ -1,0 +1,10 @@
+{"partials" : [
+  {
+    "file":"/partial1.html",
+    "destination":"#aside-1"
+  },
+  {
+    "file":"/partial2.html",
+    "destination":"#aside-2"
+  }
+]};
