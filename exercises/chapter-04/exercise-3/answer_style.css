@@ -1,0 +1,233 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Oswald);
+
+* {
+  box-sizing: border-box;  
+}
+
+.site-header {
+  margin: .375em;
+  text-transform: uppercase;
+}
+.site-header h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+}
+.site-header h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+}
+
+.nav-sidebar {
+  background: #333333;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+.result-list {
+  list-style-type: none;
+}
+.result {
+  display: block;
+  float: left;
+  text-transform: uppercase;
+}
+.result-link {
+  background: #00b4ff;
+  color: #fff;
+  display: block;
+  margin: .375em;
+  min-height: 320px;
+  padding: 1em;
+  position: relative;
+  text-decoration: none;
+}
+.result-link:hover {
+  background: #007eb3;
+}
+.result-header {
+  bottom: .5em;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+  left: .5em;
+  position: absolute;
+}
+.result-info-list {
+  font-family: 'Open Sans', sans-serif;
+  list-style-type: none;
+}
+.result-info {
+  font-size: .5em;
+}
+
+@media screen and (min-width: 640px) {
+  .nav-sidebar {
+    min-height: 100vh;
+  }
+  .result-list {
+    min-height: 100vh;
+  }
+}
+
+.row:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.col {
+  float: left;
+}
+.col-s-1 {
+  width: 8.3333333%;
+}
+.col-s-2 {
+  width: 16.666666667%;
+}
+.col-s-3 {
+  width: 25%;
+}
+.col-s-4 {
+  width: 33.333333333%;
+}
+.col-s-5 {
+  width: 41.666666667%;
+}
+.col-s-6 {
+  width: 50%;
+}
+.col-s-7 {
+  width: 58.333333333%;
+}
+.col-s-8 {
+  width: 66.666666667%;
+}
+.col-s-9 {
+  width: 75%;
+}
+.col-s-10 {
+  width: 83.333333333%;
+}
+.col-s-11 {
+  width: 91.666666667%;
+}
+.col-s-12 {
+  width: 100%;
+}
+
+@media screen and (min-width: 640px) {
+  .col-m-1 {
+    width: 8.3333333%;
+  }
+  .col-m-2 {
+    width: 16.666666667%;
+  }
+  .col-m-3 {
+    width: 25%;
+  }
+  .col-m-4 {
+    width: 33.333333333%;
+  }
+  .col-m-5 {
+    width: 41.666666667%;
+  }
+  .col-m-6 {
+    width: 50%;
+  }
+  .col-m-7 {
+    width: 58.333333333%;
+  }
+  .col-m-8 {
+    width: 66.666666667%;
+  }
+  .col-m-9 {
+    width: 75%;
+  }
+  .col-m-10 {
+    width: 83.333333333%;
+  }
+  .col-m-11 {
+    width: 91.666666667%;
+  }
+  .col-m-12 {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .col-l-1 {
+    width: 8.3333333%;
+  }
+  .col-l-2 {
+    width: 16.666666667%;
+  }
+  .col-l-3 {
+    width: 25%;
+  }
+  .col-l-4 {
+    width: 33.333333333%;
+  }
+  .col-l-5 {
+    width: 41.666666667%;
+  }
+  .col-l-6 {
+    width: 50%;
+  }
+  .col-l-7 {
+    width: 58.333333333%;
+  }
+  .col-l-8 {
+    width: 66.666666667%;
+  }
+  .col-l-9 {
+    width: 75%;
+  }
+  .col-l-10 {
+    width: 83.333333333%;
+  }
+  .col-l-11 {
+    width: 91.666666667%;
+  }
+  .col-l-12 {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .col-xl-1 {
+    width: 8.3333333%;
+  }
+  .col-xl-2 {
+    width: 16.666666667%;
+  }
+  .col-xl-3 {
+    width: 25%;
+  }
+  .col-xl-4 {
+    width: 33.333333333%;
+  }
+  .col-xl-5 {
+    width: 41.666666667%;
+  }
+  .col-xl-6 {
+    width: 50%;
+  }
+  .col-xl-7 {
+    width: 58.333333333%;
+  }
+  .col-xl-8 {
+    width: 66.666666667%;
+  }
+  .col-xl-9 {
+    width: 75%;
+  }
+  .col-xl-10 {
+    width: 83.333333333%;
+  }
+  .col-xl-11 {
+    width: 91.666666667%;
+  }
+  .col-xl-12 {
+    width: 100%;
+  }
+}
