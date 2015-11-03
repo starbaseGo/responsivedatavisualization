@@ -1,0 +1,59 @@
+.row:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.col {
+  float: left;
+}
+.col-1 {
+  width: 6.25%;
+}
+.col-2 {
+  width: 12.5%;
+}
+.col-3 {
+  width: 18.75%;
+}
+.col-4 {
+  width: 25%;
+}
+.col-5 {
+  width: 31.25%;
+}
+.col-6 {
+  width: 37.5%;
+}
+.col-7 {
+  width: 43.75%;
+}
+.col-8 {
+  width: 50%;
+}
+.col-9 {
+  width: 56.25%;
+}
+.col-10 {
+  width: 62.5%;
+}
+.col-11 {
+  width: 68.75%;
+}
+.col-12 {
+  width: 75%;
+}
+.col-13 {
+  width: 81.25%;
+}
+.col-14 {
+  width: 87.5%;
+}
+.col-15 {
+  width: 93.75%;
+}
+.col-16 {
+  width: 100%;
+}
